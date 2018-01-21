@@ -1,2 +1,2 @@
-this repository contains the files used for a git lesson
+yes its true. this repository contains the files used for a git lesson
 
